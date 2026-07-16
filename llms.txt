@@ -35,9 +35,9 @@ Companies and teams with SaaS products whose current website undersells their pr
 
 ## Links
 
-- [Live page](https://example.com/)
+- [Live page](https://costikid.github.io/wordsmithaiwebdesignerapplication/)
 - [Original Wordsmith AI site](https://www.wordsmith.ai/integrations)
-- [Project README](https://example.com/README.md)
+- [Project README](https://costikid.github.io/wordsmithaiwebdesignerapplication/README.md)
 
 ## Contact
 

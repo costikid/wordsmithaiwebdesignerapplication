@@ -41,4 +41,4 @@ User-agent: CCBot
 Disallow: /
 
 # Sitemap location
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://costikid.github.io/wordsmithaiwebdesignerapplication/sitemap.xml

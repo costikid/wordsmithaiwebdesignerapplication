@@ -8,6 +8,10 @@ I looked at the current integrations page and saw a page that undersold the prod
 
 ---
 
+**View the live redesign here:** https://costikid.github.io/wordsmithaiwebdesignerapplication/
+
+---
+
 ## What I changed and why
 
 ### The hero: from list to landing
@@ -33,3 +37,5 @@ It demonstrates the things a CV can't:
 ---
 
 *Built as an application for Designer, Web & Brand at Wordsmith. Edinburgh or London — I'd be glad to discuss either.*
+
+**Contact:** Costanza Casullo — [costanza@bromleywebworks.co.uk](mailto:costanza@bromleywebworks.co.uk)
