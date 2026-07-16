@@ -1,0 +1,44 @@
+# Wordsmith Integrations Page Redesign
+
+> A complete redesign of the Wordsmith AI integrations page — transforming a static list into an interactive, searchable experience with floating integration pills, live filtering, and a lead-capture empty state. Built as a portfolio piece demonstrating SaaS website redesign, landing page design, and frontend development capabilities.
+
+## What this is
+
+This is a self-initiated redesign of the Wordsmith AI integrations page. The original page was a static list of integrations. This redesign turns it into two experiences:
+
+1. **A hero section** with a staggered, slightly rotated cascade of floating, clickable integration pills (Notion, Slack, SharePoint, Outlook, Juro, Teams, Zapier, Gmail, Asana, Word). Each pill lifts and scales on hover with a cubic-bezier ease.
+
+2. **A browse section** with live search filtering, category filter chips (Communication, Productivity, Documents, Automation, Legal), and a graceful empty state that offers a "Request an integration" lead-capture form.
+
+## Services offered
+
+- SaaS website redesign
+- Landing page design
+- Product page optimization
+- UI/UX redesign
+- Hero section design
+- Integration page design
+- Frontend development (HTML, CSS, JavaScript)
+- Interaction design
+- Brand and web design
+
+## Target audience
+
+Companies and teams with SaaS products whose current website undersells their product. Especially legal tech, productivity tools, and platforms with integration ecosystems.
+
+## Tech stack
+
+- HTML5 (semantic, accessible)
+- CSS3 (custom properties, grid, flexbox, responsive breakpoints)
+- Vanilla JavaScript (live search, filtering, form interactions)
+- No build step, no frameworks — ships as static files
+
+## Links
+
+- [Live page](https://example.com/)
+- [Original Wordsmith AI site](https://www.wordsmith.ai/integrations)
+- [Project README](https://example.com/README.md)
+
+## Contact
+
+Built by Costanza Casullo. Available for website redesign, landing page design, and brand/web design work. Edinburgh or London — remote also considered.

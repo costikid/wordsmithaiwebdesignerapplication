@@ -1,0 +1,22 @@
+{
+  "name": "Wordsmith Integrations Page Redesign",
+  "short_name": "Wordsmith Redesign",
+  "description": "A complete redesign of the Wordsmith AI integrations page — an interactive, searchable experience with floating integration pills and live filtering.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#181818",
+  "lang": "en-GB",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
